@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#middle-section{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    height: 100vh;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    border: solid 2px red;
+    line-height: 60px;
+
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+button{
+    border: none;
+    padding: 8px 14px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+}
+
+h4{
+    text-align: right;
+}
