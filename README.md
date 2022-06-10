@@ -1,2 +1,3 @@
 # GuessingGame
-New Game Page
+New Game Page Link
+https://nishusingh26.github.io/GuessingGame/
